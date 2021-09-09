@@ -2,6 +2,6 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.0.3",
+  "version": "0.0.4",
   "registry": "git+https://github.91chifun.workers.dev//https://github.com/ADC-QAQ/monorepo.git"
 }
